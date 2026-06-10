@@ -1,0 +1,42 @@
+[
+    {
+        "CustomerID": 2001,
+        "Age": 28,
+        "Gender": "Male",
+        "Income": 42000,
+        "Purchases": 5,
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 2002,
+        "Age": 31,
+        "Gender": "Female",
+        "Income": 48000,
+        "Purchases": 7,
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 2003,
+        "Age": 24,
+        "Gender": "Male",
+        "Income": 35000,
+        "Purchases": 2,
+        "Churn": "Yes"
+    },
+    {
+        "CustomerID": 2004,
+        "Age": 45,
+        "Gender": "Female",
+        "Income": 76000,
+        "Purchases": 12,
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 2005,
+        "Age": 39,
+        "Gender": "Male",
+        "Income": 61000,
+        "Purchases": 9,
+        "Churn": "No"
+    }
+]
